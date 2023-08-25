@@ -9,15 +9,15 @@
 </head>
 <style>
     table{
-        width: 50%;
+        width: 70%;
     }
     th{
         border: 1px solid black;
     
     }
     th{
-        height: 30px;
-        padding: 10px;
+        height: 40px;
+        padding: 20px;
     }
     td{ 
         height: 50px;
